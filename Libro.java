@@ -17,7 +17,7 @@ public class Libro
 		SCIENTIFICO,
 		SPORTIVO, 
 		ARTISTICO,
-        ALTRO;
+        	ALTRO;
 		
 	}
 	private Autore [] autori;
